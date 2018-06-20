@@ -1,3 +1,5 @@
+//create first git repository and push your code.//
+
 git init
 git add .
 git commit -m"msg"
